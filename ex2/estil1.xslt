@@ -11,7 +11,7 @@
           <xsl:for-each select="garden/planta">
           
             <li>
-              <strong><xsl:value-of select="nom"/></strong> 
+              <xsl:value-of select="nom"/>
               <ul>
                 <li><xsl:value-of select="especie"/></li>
                 <li><xsl:value-of select="color"/></li>
