@@ -5,7 +5,7 @@
         <title>Plantes d'estiu</title>
       </head>
       <body>
-        <h1>Plantes que floreixen a l'estiu:</h1>
+        <h1>Plantes que floreixen a l'estiuu:</h1>
         <table>
           <tr>
             <th>Nom</th>
